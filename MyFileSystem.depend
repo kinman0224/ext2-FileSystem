@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1492585404 source:d:\c++\codeblocks file\myfilesystem\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<windows.h>
+	<cctype>
+	<algorithm>
+	"MyFileSystem.h"
+
+1492564130 source:d:\c++\codeblocks file\myfilesystem\inode.cpp
+	"INode.h"
+
+1492563697 d:\c++\codeblocks file\myfilesystem\inode.h
+	"Buf.h"
+
+1492563664 d:\c++\codeblocks file\myfilesystem\buf.h
+
+1492743380 d:\c++\codeblocks file\myfilesystem\myfilesystem.h
+	"INode.h"
+	"SuperBlock.h"
+	"DirectoryEntry.h"
+
+1492564716 d:\c++\codeblocks file\myfilesystem\superblock.h
+	<string.h>
+
+1492563633 d:\c++\codeblocks file\myfilesystem\directoryentry.h
+
+1492613351 source:d:\c++\codeblocks file\myfilesystem\initfs.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<time.h>
+	"MyFileSystem.h"
+
+1492715682 source:d:\c++\codeblocks file\myfilesystem\myfilesystem.cpp
+	"MyFileSystem.h"
+	<stdio.h>
+	<iostream>
+	<time.h>
+	<io.h>
+
